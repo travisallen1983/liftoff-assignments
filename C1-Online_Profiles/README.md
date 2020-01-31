@@ -15,6 +15,6 @@ I haven't had time to add personal content to my profiles, but I figured I'd get
 <a>https://www.linkedin.com/in/travis-allen-28ba69196/</a>
 
 ### Resume
-<a>https://github.com/travisallen1983/liftoff-assignments/blob/master/Launchcode%20Resume%20.pdf</a>
+
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
